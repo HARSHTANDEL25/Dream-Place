@@ -14,7 +14,7 @@ const Footer = () => {
           <h3 className="text-xl font-bold">
            DREAM<span className="text-yellow-300">PALACE</span>
           </h3>
-          <p className="text-sm">Finding your dream PALACE made easy.</p>
+          <p className="text-sm">Finding your dream place made easy.</p>
         </div>
         <div className="mb-4 md:mb-0">
           <h3 className="text-xl font-bold">Explore</h3>
@@ -29,18 +29,24 @@ const Footer = () => {
                 <a onClick={scrollToTop}>Search</a>
               </Link>
             </li>
-            <li className="mb-2">
-              <Link to="/agent">
-                <a onClick={scrollToTop}>Agent</a>
-              </Link>
-            </li>
-            <li className="mb-2">
-              <Link to="/about">
-                <a onClick={scrollToTop}>About</a>
-              </Link>
-              </li>
           </ul>
         </div>
+        <div className="mb-4 md:mb-0">
+  <h3 className="text-xl font-bold">Explore</h3>
+  <ul className="list-none p-0">
+    <li className="mb-2">
+      <Link to="/agent">
+        <a onClick={scrollToTop}>Agent</a>
+      </Link>
+    </li>
+    <li className="mb-2">
+      <Link to="/about">
+        <a onClick={scrollToTop}>About</a>
+      </Link>
+    </li>
+  </ul>
+</div>
+
         <div>
           <h3 className="text-xl font-bold">Connect</h3>
           <ul className="list-none p-0">
