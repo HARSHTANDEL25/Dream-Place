@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between px-4">
         <div className="mb-4 md:mb-0">
           <h3 className="text-xl font-bold">
-           DREAM<span className="text-yellow-300">Estate</span>
+           DREAM<span className="text-yellow-300">PALACE</span>
           </h3>
           <p className="text-sm">Finding your dream place made easy.</p>
         </div>

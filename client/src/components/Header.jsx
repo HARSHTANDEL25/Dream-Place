@@ -31,7 +31,7 @@ export default function Header() {
             <Link to='/'>
         <h1 className='font-bold text-sm sm:text-xl'>
             <span className="text-xl font-bold">DREAM</span>
-            <span className="text-yellow-300">Estate</span>
+            <span className="text-yellow-300">PALACE</span>
         </h1>
         </Link>
         <form onSubmit={handleSubmit} className='bg-slate-100 p-3 rounded-lg flex items-center' > 
