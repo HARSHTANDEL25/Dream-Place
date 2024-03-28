@@ -5,11 +5,11 @@ export default function About() {
 
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>Welcome to Dream Palace</h1>
-      <p className='mb-4 text-slate-700'>Dream Palace is a premier real estate agency dedicated to helping clients buy, sell, and rent properties in the most sought-after neighborhoods. Our team of {agentCount} experienced agents is committed to delivering exceptional service, ensuring a seamless experience throughout the buying and selling process.</p>
-      <p className='mb-4 text-slate-700'>At Dream Palace, our mission is to empower our clients to achieve their real estate goals by providing expert advice, personalized service, and an unparalleled understanding of the local market. Whether you're in the market to buy, sell, or rent, we're here to guide you every step of the way.</p>  
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>Welcome to Dream PLACE</h1>
+      <p className='mb-4 text-slate-700'>Dream PLACE is a premier real estate agency dedicated to helping clients buy, sell, and rent properties in the most sought-after neighborhoods. Our team of {agentCount} experienced agents is committed to delivering exceptional service, ensuring a seamless experience throughout the buying and selling process.</p>
+      <p className='mb-4 text-slate-700'>At Dream PLACE, our mission is to empower our clients to achieve their real estate goals by providing expert advice, personalized service, and an unparalleled understanding of the local market. Whether you're in the market to buy, sell, or rent, we're here to guide you every step of the way.</p>  
       <p className='mb-4 text-slate-700'>With a combined {agentCount * 10}+ years of industry experience, our team brings extensive knowledge and expertise to the table. We pride ourselves on delivering top-notch service, ensuring that your buying or selling journey is not only successful but also enjoyable and rewarding.</p>
-      <p className='mb-4 text-slate-700'>Experience the Dream Palace difference today and let us help you turn your real estate dreams into reality!</p>
+      <p className='mb-4 text-slate-700'>Experience the Dream PLACE difference today and let us help you turn your real estate dreams into reality!</p>
 
       {/* Address */}
       <div className="mb-4">  
