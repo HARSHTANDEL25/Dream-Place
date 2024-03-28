@@ -14,7 +14,7 @@ const Footer = () => {
           <h3 className="text-xl font-bold">
            DREAM<span className="text-yellow-300">PALACE</span>
           </h3>
-          <p className="text-sm">Finding your dream place made easy.</p>
+          <p className="text-sm">Finding your dream PALACE made easy.</p>
         </div>
         <div className="mb-4 md:mb-0">
           <h3 className="text-xl font-bold">Explore</h3>
