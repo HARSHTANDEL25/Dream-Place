@@ -29,6 +29,16 @@ const Footer = () => {
                 <a onClick={scrollToTop}>Search</a>
               </Link>
             </li>
+            <li className="mb-2">
+              <Link to="/agent">
+                <a onClick={scrollToTop}>Agent</a>
+              </Link>
+            </li>
+            <li className="mb-2">
+              <Link to="/about">
+                <a onClick={scrollToTop}>About</a>
+              </Link>
+              </li>
           </ul>
         </div>
         <div>
