@@ -56,7 +56,7 @@ export default function Home() {
 
           </h1>
         <div className='text-gray-500 text-xs sm:text-sm'>
-          DreamEstate is the best place to find your next perfect place to
+          DreamPlace is the best destination to find your next perfect place to
           live.
           <br />
           We have a wide range of properties for you to choose from.

@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between px-4">
         <div className="mb-4 md:mb-0">
           <h3 className="text-xl font-bold">
-           DREAM<span className="text-yellow-300">PALACE</span>
+           DREAM<span className="text-yellow-300">PLACE</span>
           </h3>
           <p className="text-sm">Finding your dream place made easy.</p>
         </div>
@@ -51,7 +51,7 @@ const Footer = () => {
           <h3 className="text-xl font-bold">Connect</h3>
           <ul className="list-none p-0">
             <li className="mb-2">
-              <a href="mailto:info@harshestate.com">Email us</a>
+              <a href="mailto:info@Dreamplace.com">Email us</a>
             </li>
             <li className="mb-2">
               <a href="tel:+123456789">Call us</a>
