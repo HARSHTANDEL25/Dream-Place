@@ -1,13 +1,16 @@
 Dream-Palace is a marketplace full-stack solution that helps users find the perfect place to live and helps real estate to advertise their properties. 
 🌟 Key Features:
 - User authentication and authorisation with JWT
-- Sign Up and Sign In with a Google
+- Oauth with Google Firebase
+- crud operation with listing 
+- Search, filter and sort functionalities
 - Stripe payment gateway
 - Upload pictures Functionality 
 - Responsive in any screen sizes
 - Customisable User Profiles and listings 
-- Search, filter and sort functionalities
 - contact to Landlords
+- userfriendly agents page
+
 
 🔧 Tech Stack:
 - MongoDB
