@@ -1,4 +1,4 @@
-Dream-Palace is a marketplace full-stack solution that helps users find the perfect place to live and helps real estate to advertise their properties. 
+Dream-Place is a marketplace full-stack solution that helps users find the perfect place to live and helps real estate to advertise their properties. 
 🌟 Key Features:
 - User authentication and authorisation with JWT
 - Oauth with Google Firebase
