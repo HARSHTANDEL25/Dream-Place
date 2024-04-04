@@ -136,9 +136,12 @@ export default function Listing() {
                 {listing.furnished ? 'Furnished' : 'Unfurnished'}
               </li>
             </ul>
-            <a href="https://buy.stripe.com/test_5kAeVoa5x8xi93i145" target="_blank" rel="noopener noreferrer">
-  <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full">PAYMENT</button>
-</a>
+            {currentUser && listing.userRef !== currentUser._id && !contact &&  (
+  <a href="https://buy.stripe.com/test_5kAeVoa5x8xi93i145" target="_blank" rel="noopener noreferrer">
+    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full">PAYMENT</button>
+  </a>
+)}
+
 
             <ReviewCards/>
             
